@@ -2,6 +2,7 @@ version: 0.2
 
 phases:
   install:
+
     commands:
       - echo Executing Install Phase
       - npm --version
