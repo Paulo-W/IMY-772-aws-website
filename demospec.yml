@@ -18,12 +18,6 @@ phases:
     commands:
       - npm run build:ci
       - npm run test:ci
-
-artifacts:
-  files:
-    - '**/*.html'
-    - '**/*.css'
-    - '**/*.js'
-    - '**/*.ico'
-  base-directory: 'dist/popular-consensus'
-  disgard-paths: yes
+  post_build:
+    commands:
+      - aws s3 sync ./dist/popular-consensus s3://demo.popular-consensus --delete
