@@ -8,12 +8,8 @@ phases:
       - echo Executing Install Phase
   pre_build:
     commands:
-      - echo Executing Pre Build Phase
+      - npm install
   build:
     commands:
-      - npm --version
-      - echo Executing Build Phase
-  post_build:
-    commands:
-      - echo Executing Post Build Phase
+      - npm run build:ci
 
