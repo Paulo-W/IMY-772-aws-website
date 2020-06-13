@@ -13,3 +13,11 @@ phases:
     commands:
       - npm run build:ci
 
+artifacts:
+  files:
+    - '**/*.html'
+    - '**/*.css'
+    - '**/*.js'
+    - '**/*.ico'
+  base-directory: 'dist/popular-consensus'
+  disgard-paths: yes
