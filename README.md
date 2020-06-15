@@ -1,6 +1,6 @@
 # PopularConsensus
 
-![Build Status](https://codebuild.eu-central-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiWlpxanJLOFB6SThLVVBob1NIRHd4N0Fzb0R4MDMyM3B1NlU4Z3NqVnNJYXpaRXJETUF1ajhnanNFM1VJUUR0SXlVUDd5TEp0Tm1qR0gzeXVjK2ZZRGhjPSIsIml2UGFyYW1ldGVyU3BlYyI6Im5HL0NORHZ5SXZwOVZSRm0iLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=demo)
+![Build Status](https://codebuild.eu-central-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoibXgrTzhDdXp1WHQ2UFVjZUd6cmp1alBBY21iTk53TkpEVGFXdEgrcjRUcHdkOFlMN2xmTUs2RDZFSzU5eGVCaU9XVmFXT3JIM252MUFDMVZTYXJKdUtNPSIsIml2UGFyYW1ldGVyU3BlYyI6IjBhVUxjYVNycURSdHVyc1QiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=master)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.8.
 
